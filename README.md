@@ -1,10 +1,12 @@
-# IT326 Data Mining Project  
+# Data Mining Project
 
-## Project Goal  
-The goal of this project is to apply data mining techniques (Classification & Clustering) to analyze the **Bank Marketing Dataset** and predict customer responses to marketing campaigns conducted by phone.  
+A data mining project that applies classification and clustering techniques to analyze the Bank Marketing Dataset and explore customer responses to marketing campaigns.
 
-## Motivation  
-We chose this dataset because it is real-world, large-scale (over 40,000 records), and relevant to the banking and marketing domains. The problem is important since it helps banks and companies better target potential customers, increase campaign efficiency, and reduce marketing costs.  
+## Project Overview
+
+The project uses the Bank Marketing Dataset from the UCI Machine Learning Repository, which contains information about direct marketing campaigns conducted by a banking institution.
+
+The analysis focuses on preparing and exploring the dataset, applying data mining techniques, and using classification and clustering to analyze customer behavior and patterns.
 
 ## Dataset  
 - **Source:** [UCI Machine Learning Repository - Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)  
@@ -13,8 +15,18 @@ We chose this dataset because it is real-world, large-scale (over 40,000 records
 - **Columns (features):** 20  
 - **Class Label:** `y` (yes/no) — whether the client subscribed to a bank term deposit.
 
-## Team Members  
-- Wajd Alrasheed (Leader)  
-- Renad Alqahtani 
-- Amal Albogami  
-- Jood Mutrid 
+## Technologies
+
+- Python
+
+## Tools
+
+- Google Colab
+- GitHub
+
+## Team Members
+
+- Amal Albogami
+- Wajd Alrasheed
+- Renad Alqahtani
+- Jood Mutrid
